@@ -4,7 +4,7 @@ OpenQA is a testing framework that allows you to test GUI applications on one ha
 
 Therefore openQA runs virtual machines and closely monitors their state and runs tests on them.
 
-The testing framework can be divided in two parts. The one that is hosted in this repository contains the web frontend and management logic (test scheduling, management, high-level API, …​)
+The testing framework can be divided in two parts. The one that is hosted in this repository contains the web frontend and management logic (test scheduling, management, high-level API)
 
 The other part that you need to run openQA is the OS-autoinst test engine that is hosted in a separate repository.
 
