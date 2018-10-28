@@ -12,7 +12,7 @@ The other part that you need to run openQA is the OS-autoinst test engine that i
 
 #Getting Started 
 
-This project deals with the testing of whole installation process of the Fedora 28 and the On Screen Keyboard of the Fedora using the tool OpenQA.
+This project deals with the testing of whole installation process of the Fedora 28 and the On Screen Keyboard of the Fedora using the tool openQA.
 
 How to Contribute to this repository
 
